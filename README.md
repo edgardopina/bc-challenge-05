@@ -1,11 +1,11 @@
 # bc-challenge-05
 
-# AS AN employee with a busy schedule
+## AS AN employee with a busy schedule
 
 -  I WANT to add important events to a daily planner
 -  SO THAT I can manage my time effectively
 
-# Acceptance Criteria
+## Acceptance Criteria
 
 -  GIVEN I am using a daily planner to create a schedule
 -  WHEN I open the planner
