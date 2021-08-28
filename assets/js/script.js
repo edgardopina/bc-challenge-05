@@ -1,5 +1,5 @@
 var startPlanner = function () {
-
+//
 };
 
 var updateCurrentDay = function () {
